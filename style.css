@@ -1,16 +1,40 @@
 
-.paaotsikko{
-    color: blue;
+.paaotsikko {
+    color: black;
+    margin-top: 1em;
+    text-decoration: underline;
 }
 
-h2, p {
-    color: darkred;
+h2 {
+    color: black;
 }
 
 ul {
-    color: hotpink;
+    color: dimgrey;
 }
 
 #jatkuu {
     color: red;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 50em;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    line-height: 1.5;
+    padding: 4em 1em;
+    color: #555;
+}
+
+.listat{
+    color: lightseagreen;
+}
+
+.container{
+    height: 280px;
+    width: 180px;
+    background-color: navajowhite;
+    position: relative;
+    padding:20px;
+
 }
