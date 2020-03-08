@@ -1,3 +1,16 @@
-p {
-    background-color: red;
+
+.paaotsikko{
+    color: blue;
+}
+
+h2, p {
+    color: darkred;
+}
+
+ul {
+    color: hotpink;
+}
+
+#jatkuu {
+    color: red;
 }
